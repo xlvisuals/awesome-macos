@@ -1,4 +1,4 @@
-## macOS installer download links to 10.7 to 27.0.1
+## macOS installer download links to 10.5 to 27.0.1
 
 ### MacOS Golden Gate 27 Installers & IPSW
 
@@ -423,14 +423,3 @@ If you’re a registered Apple developer then you may be able to [download Mac O
 - [Download Mac OS X Snow Leopard](http://adcdownload.apple.com/Mac_OS_X/mac_os_x_version_10.6_snow_leopard_build_10a432/mac_os_x_v10.6_build_10a432_user_dvd.dmg) (DMG file, via Apple ADC downloads) 
 
 - [Download Mac OS Leopard](http://adcdownload.apple.com/Mac_OS_X/mac_os_x_v10.5_leopard_9a581/leopard_9a581_userdvd.dmg) (DMG file, ADC download link) 
-
-### Downloading / Buying Mac OS X Mountain Lion, Lion, Mac OS X Snow Leopard
-
-Apple also sells some older Mac OS X versions for convenience:
-
-- [Buy Mountain Lion from Apple for $20](https://www.apple.com/shop/product/D6377Z/A/os-x-mountain-lion) 
-
-- [Buy Lion from Apple for $20](https://www.apple.com/shop/product/D6106Z/A/os-x-lion) 
-
-- [Buy Snow Leopard from Apple](https://www.apple.com/shop/product/MC573Z/A/mac-os-x-106-snow-leopard) 
-
