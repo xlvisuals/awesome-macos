@@ -196,6 +196,8 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [LMMS](https://lmms.io/) – free and open-source digital audio workstation (DAW).
 
+- [Mac Sai](https://github.com/iliyami/MacSai) - Open-source full-suite cleaner and analyser tool mimicking a wide array of CleanMyMac features (22+ modules across cleanup, protection, performance, and disk insights), with a clean, modern UI. 
+
 - [Mactoy](https://github.com/cashcon57/mactoy) - free and open-source port of Ventoy for macOS. [Ventoy](https://www.ventoy.net/) is the best way to carry a toolkit of bootable OSes on a single USB — install it once, then just drop ISOs on the drive and pick one at boot.
 
 - [MakeMKV](https://www.makemkv.com/) – free tool to rip DVD and Blu-ray discs to MKV files.
