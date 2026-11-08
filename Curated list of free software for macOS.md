@@ -22,8 +22,6 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [Bartender](https://www.macbartender.com/) or [Hidden Bar](https://github.com/dwarvesf/hidden) – tools to organize and hide menu bar icons.
 
-- [BleachBit](https://www.bleachbit.org/) – free and open-source disk space cleaner.
-
 - [Blender](https://www.blender.org/download/) – free and open-source 3D computer graphics software for modeling and animation.
 
 - [Brave](https://brave.com/download/) – privacy-focused browser that blocks ads and trackers by default; free.
