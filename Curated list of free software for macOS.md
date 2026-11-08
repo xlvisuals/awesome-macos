@@ -66,13 +66,15 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
     - [Clear Cache](https://addons.mozilla.org/en-US/firefox/addon/clearcache) – Clear browser cache with a single click or via the F9 key. 
 
-    - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) – no ads on YouTube.
-
     - [Fireshot](https://addons.mozilla.org/en-US/firefox/addon/fireshot/) – webpage screenshots, offline.
 
     - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) – Block all scripts and trackers. Allow potentially malicious web content to run only from sites you trust.
 
     - [Dark Reader](https://darkreader.org/) – dark mode for every website.
+
+    - [Page to markdown](https://addons.mozilla.org/en-US/firefox/addon/page-to-markdown/) - save pages as markdown, including images.
+
+    - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - isolate tabs as if it was a different browser.
 
     - [CSS Toggler](https://addons.mozilla.org/en-US/firefox/addon/css-toggler/) – quickly toggle CSS (for Development).
 
