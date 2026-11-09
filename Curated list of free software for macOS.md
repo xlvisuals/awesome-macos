@@ -188,6 +188,8 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [Lazarus](https://www.lazarus-ide.org/) – free and open-source Delphi/Pascal development environment.
 
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) – free and open-source macOS menu bar app that restores window layouts across external monitors and Spaces; brightness sync, per-USB-C arrangement, Keep Awake.
+
 - [LibreOffice](https://www.libreoffice.org/) – free and open-source office productivity suite.
 
 - [Librewolf](https://librewolf.net/) – a fork of Firefox focused on privacy, security, and user freedom; free.
