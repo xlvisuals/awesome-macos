@@ -182,6 +182,8 @@ A curated list of free everyday software tools for macOS (files, documents, phot
 
 - [Kid3](https://kid3.kde.org/) – free audio tagger to manage music file metadata.
 
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) – free, GPL-3.0-only terminal tool for macOS network monitoring and diagnostics.
+
 - [Kiwix](https://kiwix.org/en/) – free and open-source offline reader for websites and Wikipedia.
 
 - [Krita](https://krita.org/en/) – free and open-source digital painting and illustration program.
